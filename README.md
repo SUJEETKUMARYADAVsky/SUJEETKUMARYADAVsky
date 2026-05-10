@@ -154,28 +154,8 @@ Coding + interview preparation ecosystem.
 
 ---
 
-# 🎯 How to Add This to GitHub
 
-## Step 1
-Create a new repository with the exact name:
 
-```bash
-SUJEETKUMARYADAVsky
-````
-
-## Step 2
-
-Create:
-
-```bash
-README.md
-```
-
-## Step 3
-
-Paste the full code above.
-
-## Step 4
 
 Commit changes.
 
